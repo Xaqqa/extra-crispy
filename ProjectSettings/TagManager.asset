@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Carpet
+  - Wall
+  - Level_Showcase
+  - Fire_Extinguisher
+  - Water_Bottle
+  - Fire
+  - Play_Button
+  - Settings_Button
+  - Credits_Button
+  - Graphics_Button
+  - Controls_Button
+  - Sounds_Button
+  - MenuNavigation_Button
+  - InvertLook_Button
+  - ReturnToGame_Button
+  - Level_Start
+  - Tutorial_Start
+  - Tutorial_Button
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
